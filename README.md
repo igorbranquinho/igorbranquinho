@@ -1,8 +1,10 @@
-###  Olá! Eu sou o Igor Branquinho 🚀
+<h2> Olá! Eu sou o Igor Branquinho 🚀 </h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-8257e5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor.artx/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8257e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbranquinho/)
 [![Behance](https://img.shields.io/badge/Behance-8257e5?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/igorbranquinho)
+
+</br>
 
 ###  Tecnologias que eu uso no meu dia
 
@@ -15,6 +17,7 @@
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-<br/>
+</br>
+
 Estou convencido de que juntos alcançaremos coisas incríveis.
 
